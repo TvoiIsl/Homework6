@@ -35,7 +35,7 @@ public class Main {
             System.out.println(year+" год не является високосным");
         }//Задание 3
 
-        int deliveryDistance=50;
+        int deliveryDistance=55;
         if (deliveryDistance<=20){
             System.out.println("Потребуется 1 день для доставки ");
         } else if (deliveryDistance>20 && deliveryDistance<=60) {
